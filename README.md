@@ -1,2 +1,2 @@
 # cse474_17au
-Automated Vehicle with Obstacle Avoidance
+This project is an automated vehicle with obstacle avoidance. It is built with TI Tiva Launchpad.
